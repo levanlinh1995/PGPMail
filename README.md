@@ -1,6 +1,6 @@
 # PGPMail
 App send and receive mail, encrypt, decrypt, sign and verify Java
-Link: http://lelinhweb.com/index.php/2016/07/14/application-pgp-mail-client-java/
+Link: http://lelinhweb.com/application-pgp-mail-client-java/
 Chạy file .jar để chạy Chương Trình:
 - Xuất hiện giao diện của chương trình:
 - Vào Setting trên thanh menu để đăng nhập vào tài khoản của gmail hoặc yahoo ( Cần phải đăng nhập trước )
